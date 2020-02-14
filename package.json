@@ -1,0 +1,20 @@
+{
+  "name": "sicoman",
+  "version": "1.0.0",
+  "description": "Sistema de Gestão de Contratos de Manutenção\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/gelsoniezzi/sicoman"
+  },
+  "keywords": [
+    "Contrato",
+    "manutencao",
+    "sistema"
+  ],
+  "author": "Gelson Garcia",
+  "license": "ISC"
+}
