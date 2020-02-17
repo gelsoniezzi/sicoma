@@ -2,5 +2,5 @@ import app from './app'
 const port = 3000
 
 app.listen(port, () => {
-    console.log(`Servidor rodando na portass ${port}`)
+    console.log(`Servidor rodando na portas ${port}`)
 })
