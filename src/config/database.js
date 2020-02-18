@@ -8,5 +8,4 @@ module.exports = {
         timestamps: true, //created_at, updated_at
         underscored: true
     }
-
 }

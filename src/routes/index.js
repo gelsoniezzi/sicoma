@@ -7,6 +7,6 @@ const router = express.Router()
 
 
 router.use('/users', usersRoute)
-router.get('/', (req, res) => res.send('Olá mundo! 3'))
+router.get('/', (req, res) => res.send('Olá mundo! 4'))
 
 export default router
